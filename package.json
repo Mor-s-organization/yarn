@@ -1,0 +1,11 @@
+{
+  "name": "mor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "accepts": "^1.3.8",
+    "lodash": "^4.17.21",
+    "tmp": "^0.2.1"
+  }
+}
